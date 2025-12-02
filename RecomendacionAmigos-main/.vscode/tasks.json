@@ -7,8 +7,8 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                "${workspaceFolder}/src/*.cpp",      
-                "-I${workspaceFolder}/include",      
+                "${workspaceFolder}/RecomendacionAmigos-main/src/*.cpp",      
+                "-I${workspaceFolder}/RecomendacionAmigos-main/include",      
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],

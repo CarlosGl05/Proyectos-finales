@@ -1,6 +1,6 @@
 #include <iostream>
 #include <limits> // Necesario para la limpieza del buffer (std::numeric_limits)
-#include "RedSocial.h" // ¡CORREGIDO! Usamos ruta relativa, gracias al tasks.json
+#include "RedSocial.h" 
 
 using namespace std;
 using namespace RedSocial; // Asumo que Usuario y recomendar están en este namespace
