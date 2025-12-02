@@ -85,5 +85,5 @@ Este repositorio demuestra la aplicación completa de tres algoritmos esenciales
 
 # **Videos de los proyectos**
 1. Dijkstra: https://youtu.be/T8_6t_RQTks
-2. Round Robin: 
+2. Round Robin: https://youtu.be/UF1bkbAzxgU
 3. Recomendador Social: https://youtu.be/xlCzenDBcRI
